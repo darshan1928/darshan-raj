@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/darshan-raj/static/css/main.03bd240d.css",
+    "main.js": "/darshan-raj/static/js/main.6e9621df.js",
+    "static/js/787.128fc6e9.chunk.js": "/darshan-raj/static/js/787.128fc6e9.chunk.js",
+    "static/media/DPN.png": "/darshan-raj/static/media/DPN.14590d2495187bed1ca3.png",
+    "static/media/CV.pdf": "/darshan-raj/static/media/CV.f4306433ee5f9f76df43.pdf",
+    "index.html": "/darshan-raj/index.html",
+    "main.03bd240d.css.map": "/darshan-raj/static/css/main.03bd240d.css.map",
+    "main.6e9621df.js.map": "/darshan-raj/static/js/main.6e9621df.js.map",
+    "787.128fc6e9.chunk.js.map": "/darshan-raj/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03bd240d.css",
+    "static/js/main.6e9621df.js"
+  ]
+}
